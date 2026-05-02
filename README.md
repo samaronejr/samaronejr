@@ -46,7 +46,7 @@ I'm developing my path in AI by studying and building ML systems/pipelines that 
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/viniciusdsmello/](https://www.linkedin.com/in/samarone-lima-709b87196/))
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/viniciusdsmello/](https://www.linkedin.com/in/samaronelima/))
 ---
 
 <div align="center">
