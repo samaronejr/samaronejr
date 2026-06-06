@@ -42,7 +42,7 @@ I'm developing my path in AI by studying and building ML systems/pipelines that 
 
 ## GitHub Activity / Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samaronejr&theme=tokyonight" alt="mystreak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samaronejr&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## Contact
 
